@@ -1,17 +1,14 @@
 ---
 name: eliud_core_helpers
-description: Eliud core create is the core create eliud package which includes core classes for wizards and editors. More info at https://eliud.io
+description: Eliud core helpers is the core helpers package. More info at https://eliud.io
 homepage: https://eliud.io
-repository: https://github.com/eliudio/eliud_core
+repository: https://github.com/eliudio/eliud_core_helpers
 version: 1.0.0
 environment:
   sdk: '>=2.17.0 <4.0.0'
   flutter: '>=3.0.0'
 dependencies:
-  bloc: ^8.1.2
-  flutter_bloc: ^8.1.3
   intl: ^0.18.1
-  meta: ^1.9.1
   cloud_firestore: ^4.12.2
   uuid: ^4.2.1
   flutter:
