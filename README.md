@@ -31,7 +31,7 @@ Helper classes used by eliud
 
 <!-- dependencies -->
 
-### Links direct dependencies
+### Dev dependencies
 - [eliud_generator](https://pub.dev/packages/eliud_generator)
 
 <!-- dependenciesstop -->
