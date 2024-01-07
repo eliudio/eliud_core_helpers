@@ -1,18 +1,39 @@
 # eliud_core_helpers
 
-Eliud core helpers package
+Helpers core package. 
+This package is part of eliud technology. More information, see https://eliud.io
 
-## Dependency diagram
+---
+
+## Table of contents
+
+<!-- toc -->
+
+- [Appendix A. Dependencies](#appendix-a-dependencies)
+  * [The dependency diagram](#the-dependency-diagram)
+  * [Links](#links-)
+
+<!-- tocstop -->
+
+---
+
+## Introduction
+
+Helper classes used by eliud
+
+---
+
+## Appendix A. Dependencies
+
+### The dependency diagram
 
 ![Dependency diagram](https://github.com/eliudio/eliud_core_helpers/raw/main/depends.jpg)
 
-### links
-|Package                                                                    |Description                                            |
-|---------------------------------------------------------------------------|-------------------------------------------------------|
-TODO
+<!-- dependencies -->
 
-## eliud.io
+### Links direct dependencies
+- [eliud_generator](https://pub.dev/packages/eliud_generator)
 
-This package / app is part of the eliud.io project
+<!-- dependenciesstop -->
 
-More information, see https://eliud.io
+---
